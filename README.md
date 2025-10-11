@@ -7,6 +7,7 @@ Create a predictive model capable of evaluating the price of a car based on the 
 
 ## Files available in this repository:
 1. data
+   
   a. sample_submission : csv file containing the price for each cardID
   b. test : csv file with the dataframe to test
   c. train: csv file with the dataframe to train
