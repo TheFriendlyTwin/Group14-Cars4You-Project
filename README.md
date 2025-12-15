@@ -11,6 +11,9 @@ Create a predictive model capable of evaluating the price of a car based on the 
   - sample_submission: csv file containing the price for each cardID
   - test: csv file with the dataframe to test
   - train: csv file with the dataframe to train
+- Homework_Group14: First delivery
+- Group14_Notebook: Final delivery
+- Group14_test_pred: Kaggle submission
 
  ## Metadata
  `carID` : An attribute that contains an identifier for each car <br>
@@ -26,3 +29,6 @@ Create a predictive model capable of evaluating the price of a car based on the 
 `previousOwners`: Number of previous registered owners of the vehicle. <br>
 `hasDamage`: Boolean marker filled by the seller at the time of registration stating whether the car is damaged or not <br>
 `price`: The car's price when purchased by Cars 4 You (in £) <br>
+
+## Member contribution
+Commits on Github do not convey actual member's participation in this project as it was done in group.
